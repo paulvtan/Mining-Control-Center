@@ -1,0 +1,12 @@
+{"config" :
+	[
+		{
+			"active" : true,
+			"platformName" : "Dwarfpool",
+			"baseUri" : "http://dwarfpool.com/eth/",
+			"walletAddress" : "0xCAcFCFbb47DCC67bA169f5a90CFf80bdEF5C0F89",
+			"payOutLimit" : 0.05
+		}
+
+	]
+}

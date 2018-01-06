@@ -1,0 +1,11 @@
+C:\Users\paulv\source\repos\Mining-Control-Center\MiningControlCenter\bin\Debug\netcoreapp2.0\MiningControlCenter.deps.json
+C:\Users\paulv\source\repos\Mining-Control-Center\MiningControlCenter\bin\Debug\netcoreapp2.0\MiningControlCenter.runtimeconfig.json
+C:\Users\paulv\source\repos\Mining-Control-Center\MiningControlCenter\bin\Debug\netcoreapp2.0\MiningControlCenter.runtimeconfig.dev.json
+C:\Users\paulv\source\repos\Mining-Control-Center\MiningControlCenter\bin\Debug\netcoreapp2.0\MiningControlCenter.dll
+C:\Users\paulv\source\repos\Mining-Control-Center\MiningControlCenter\obj\Debug\netcoreapp2.0\MiningControlCenter.csprojResolveAssemblyReference.cache
+C:\Users\paulv\source\repos\Mining-Control-Center\MiningControlCenter\obj\Debug\netcoreapp2.0\MiningControlCenter.csproj.CoreCompileInputs.cache
+C:\Users\paulv\source\repos\Mining-Control-Center\MiningControlCenter\obj\Debug\netcoreapp2.0\MiningControlCenter.AssemblyInfoInputs.cache
+C:\Users\paulv\source\repos\Mining-Control-Center\MiningControlCenter\obj\Debug\netcoreapp2.0\MiningControlCenter.AssemblyInfo.cs
+C:\Users\paulv\source\repos\Mining-Control-Center\MiningControlCenter\bin\Debug\netcoreapp2.0\MiningControlCenter.pdb
+C:\Users\paulv\source\repos\Mining-Control-Center\MiningControlCenter\obj\Debug\netcoreapp2.0\MiningControlCenter.dll
+C:\Users\paulv\source\repos\Mining-Control-Center\MiningControlCenter\obj\Debug\netcoreapp2.0\MiningControlCenter.pdb
