@@ -25,7 +25,6 @@ The appllication utilises DwarfPool API to give a real time ETH mining performan
 _Screenshots_
 
 <p>
-<img src="img/m1.png" width="300"/>
 <img src="img/m2.png" width="300"/>
 <img src="img/m3.jpg" width="300"/>
 </p>
